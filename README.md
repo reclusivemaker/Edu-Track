@@ -1,2 +1,2 @@
 # Edu-Track
-this is system for students that help them to look out their marks 
+The Personal Academic Progress Tracker - Where students will be able to record grades, Enter their subjects and calculate their GPA.
